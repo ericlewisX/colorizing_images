@@ -1,4 +1,4 @@
-# Capstone 3 
+# Colorizxing Images
 
 Ran into some bugs, will figure this out eventually.
 
